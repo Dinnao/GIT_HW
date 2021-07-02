@@ -4,3 +4,4 @@ third_line = 3
 fourth_line = 4
 fith = 5
 six = 6
+seven = 7
