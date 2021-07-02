@@ -1,3 +1,3 @@
 first_line = 1
 
-third_line
+third_line = 3
